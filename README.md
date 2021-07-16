@@ -1,1 +1,3 @@
-# HistoryPriceofTaobao
+# 淘宝商品的历史价格与商品描述
+- 以【家电】为例
+
