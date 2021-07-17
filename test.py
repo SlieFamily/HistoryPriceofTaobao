@@ -1,4 +1,4 @@
-import pandas as pd
-df = pd.DataFrame({'a':[1,2,3]})
-df['b'] = [12]
-print(df)
+import time
+
+t1 = time.mktime(time.strptime('2021-07-17', '%Y-%m-%d'))
+print(t1)
